@@ -12,4 +12,10 @@ npm install prompt-sync - to install npm in VS Code.
 # How to Run Javascript in Visual Studio Code on Windows 10 2022
 https://www.youtube.com/watch?v=x_2sYpk75Ic&t=44s
 
+Use 
+Ctrl+Alt+N - To run the code 
+Ctrl+Alt+M - to stop the code 
+
+
+
 
